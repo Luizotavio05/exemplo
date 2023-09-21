@@ -1,1 +1,2 @@
 aula de git
+resolvendo conflitos no git
